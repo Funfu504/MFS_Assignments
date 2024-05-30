@@ -15,7 +15,7 @@ namespace NumberCounter
         /// <param name="FirstName">Identifier to indicate number was divisible by 3</param>
         /// <param name="LastName">Identifier to indicate a number was divisible by 5</param>        /// 
         /// <returns>List of Strings representing the count</returns>
-        public static List<String> PrintNumbers(Int64 upperBound, string FirstName, string LastName)
+        public static List<String> PrintNumbers(int upperBound, string FirstName, string LastName)
         {
             List<String> result = new List<String>();
 
