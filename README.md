@@ -1,2 +1,2 @@
 # MFS_Assignments
-ClearMeasure Programming Assignment
+Assortment of Programming Assignments
